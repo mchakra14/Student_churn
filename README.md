@@ -20,25 +20,33 @@ Clearwater State University had past five years data of enrolled students. It wa
 
 # 1. Second Term Earned Hours 
    a. Students with less grades need extra attention. Extra classes could improve their subject understanding and also boost their confidence.
+   
    b. Term wise feedback session could be helpful to have an interaction between student and teacher.
    
 # 2. Distance From Home 
    a. Hostel with less fees and good canteen facilities could be provided to off campus students.
+   
    b. Bus facilities could be provided in and around of 150km range.
    
 # 3. Family Contribution
    a. Scholarship scheme could be provided for potential students.
+   
    b. Providing education loan facility.
+   
    c. Earn and learn scheme –so that they don’t have to be dependent.
    
 # 4. Gender
    a. Scholarship for female students.
+   
    b. Providing safe and secure environment to make them feel good to attend the college.
+   
    c. Job opportunities 
+   
    d. Implementation of POSH
    
 # 5. Unmet Needs
    a. Providing students education loan.
+   
    b. Fee concession for low family income students.
 
 
